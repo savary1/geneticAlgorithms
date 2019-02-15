@@ -1,0 +1,199 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 131.0,
+		"history":
+		[
+			"ljz<dlhz<jh"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Workspaces/IA/Prac 4/familia0.clp",
+		"/D/Workspaces/Eclipse/aima-gui/src/main/java/aima/gui/demo/search/NQueensDemo.java",
+		"/D/Workspaces/Eclipse/aima-core/src/main/java/aima/core/environment/nqueens/NQueensGoalTest.java",
+		"/D/Workspaces/Eclipse/prueba/configuracionConvocatoria1.txt",
+		"/D/Workspaces/Eclipse/prueba/configuracionConvocatoria2.txt",
+		"/D/Workspaces/Eclipse/aima-core/src/main/java/aima/core/search/local/GeneticAlgorithm.java",
+		"/D/Descargas/prac4IA/src/geneticMod/ModUno.java",
+		"/D/Descargas/prac4IA/src/geneticMod/ModDos.java",
+		"/D/Descargas/prac4IA/src/geneticMod/ModTres.java",
+		"/D/Workspaces/Eclipse/aima-core/src/main/java/aima/core/environment/nqueens/NQueensGenAlgoUtil.java",
+		"/D/Descargas/configuracionConvocatoria1.txt",
+		"/D/Workspaces/Eclipse/aima-core/src/main/java/aima/core/search/local/Individual.java",
+		"/D/Workspaces/Eclipse/aima-core/src/main/java/aima/core/environment/nqueens/NQueensBoard.java",
+		"/C/Users/David/AppData/Local/Temp/Source.cpp",
+		"/C/Users/David/AppData/Local/Temp/Temp1_prac4IAG14.zip/prac4IA/src/geneticMod/ModTres.java",
+		"/D/Workspaces/Eclipse/aima-core/src/main/java/aima/core/environment/tablaHorarios/TablaHorariosGenAlgoUtil.java",
+		"/D/Workspaces/Eclipse/aima-core/src/main/java/aima/core/environment/nqueens/NQueensFunctions.java",
+		"/D/Workspaces/Eclipse/Prac4IA/configuracionConvocatoria3.txt",
+		"/D/Workspaces/Eclipse/Prac4IA/configuracionConvocatoria2.txt",
+		"/D/Workspaces/Eclipse/Prac4IA/configuracionConvocatoria1.txt",
+		"/D/Workspaces/Eclipse/aima-core/src/main/java/aima/core/search/framework/problem/GoalTest.java",
+		"/D/Workspaces/Eclipse/aima-core/src/main/java/aima/core/probability/bayes/model/FiniteBayesModel.java",
+		"/C/Users/David/AppData/Local/Temp/Temp1_aima-java-AIMA3e.zip/aima-java-AIMA3e/README.md",
+		"/D/Descargas/pracIA/aima-core/src/main/java/aima/core/environment/eightpuzzle/MisplacedTilleHeuristicFunction.java",
+		"/D/Descargas/Parche 3.3.txt",
+		"/D/Escritorio/[David]",
+		"/C/Users/David/AppData/Local/Temp/solucionC.cpp",
+		"/D/Localizador reserva vuelo",
+		"/D/Workspaces/PD/prac1.hs",
+		"/D/Workspaces/PD/Apuntes.hs",
+		"/D/Descargas/solucionA.cpp",
+		"/D/Workspaces/ARM/Practica3-final/pract3-parte1/gpio.c",
+		"/D/Workspaces/ARM/Prac1/Practica1_alumnos/Practica1/init.asm",
+		"/D/Workspaces/ARM/Practica3-final-parte3.zip"
+	],
+	"find":
+	{
+		"height": 77.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 77.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": ".project.sublime-project",
+	"replace":
+	{
+		"height": 150.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
